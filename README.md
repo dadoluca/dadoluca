@@ -1,9 +1,7 @@
 ### Luca Dadone 
-🚀 **AI Engineer | Full-Stack Developer | Startup Enthusiast**  
-🎓 Computer Engineering @ Polytechnic of Turin  
-<!--🏆 Winner of Astra Incubator Pitch Competition | I3P Startup Academy | GEN NEXT-->
-
-#### 🔧 Tech Stack  
+**🧠 AI Engineer  💻 Full-Stack Developer 🚀 Startup Enthusiast**  
+ 
+### 🔧 Tech Stack  
 | Category | Technologies |
 |----------|-------------|
 | **AI & ML & Big Data** | AI Agents, RAG, LLMs, Distributed Learning (Federated), PyTorch, Spark, Hadoop |
