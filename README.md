@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Luca Dadone 
 
-<!--
-**dadoluca/dadoluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Full-Stack Developer | Startup Enthusiast  
+🎓 Computer Engineering @ Polytechnic of Turin  
+<!--🏆 Winner of Astra Incubator Pitch Competition | I3P Startup Academy | GEN NEXT-->
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack  
+- **AI & ML**: AI Agents, RAG, LLMs, Distributed Learning (Federated), PyTorch
+- **Big Data**: Spark, Hadoop
+- **Databases**: PostgreSQL, Pinecone (Vector DB), MySQL, MongoDB, DynamoDB
+- **Backend**: Java, C#, Python, Node.js, PHP
+- **Low Level**: C, Rust, Assembly, ARM
+- **Frontend**: React, Vue, JavaScript, Flutter
+- **Cloud**: AWS (Amplify, Cognito, DynamoDB, API Gateway), Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/luca-dadone-8858a41a9/) | [luca.dadone01@gmail.com](mailto:luca.dadone01@gmail.com)
+
