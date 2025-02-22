@@ -1,10 +1,9 @@
 ## Luca Dadone 
 **🧠 AI Engineer  💻 Full-Stack Developer 🚀 Startup Enthusiast**  
 
-### 🤖 **Currently working on**
-***AI Agents, Chatbots, RAG and Vector DBs, Distributed Learning (Federated)***
+#### 🤖 **Currently working on:** *AI Agents, Chatbots, RAG and Vector DBs, Distributed Learning (Federated)*
 
-### 💙 **Favorite Stack**
+#### 💙 **Favorite Stack**
 - *FE:* ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) / ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white) / ![](https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white)
 - *BE:* ![](https://img.shields.io/badge/-Java-orange) / ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) / ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 <!--### 🔧 Tech Stack  
