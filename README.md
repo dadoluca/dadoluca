@@ -2,7 +2,7 @@
 **🧠 AI Engineer  💻 Full-Stack Developer 🚀 Startup Enthusiast**  
 
 ### 🤖 **Currently working on**
-*AI Agents, Chatbots, RAG and Vector DBs, Distributed Learning (Federated)*
+***AI Agents, Chatbots, RAG and Vector DBs, Distributed Learning (Federated)***
 
 ### 💙 **Favorite Stack**
 - *FE:* ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) / ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white) / ![](https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white)
