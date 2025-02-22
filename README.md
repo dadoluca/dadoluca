@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Luca Dadone 
+### Luca Dadone 
 🚀 AI Engineer | Full-Stack Developer | Startup Enthusiast  
 🎓 Computer Engineering @ Polytechnic of Turin  
 <!--🏆 Winner of Astra Incubator Pitch Competition | I3P Startup Academy | GEN NEXT-->
